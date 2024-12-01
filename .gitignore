@@ -1,0 +1,5 @@
+.idea
+convert-colours/.idea
+training/.idea
+convert-colours/node_modules
+training/node_modules
